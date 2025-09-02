@@ -1,0 +1,28 @@
+# Game Development Learning Resources
+
+📚 Free Courses & Learning Platforms  
+- https://learn.unity.com (Unity official learning)  
+- https://www.unrealengine.com/en-US/onlinelearning-courses (Unreal Engine learning)  
+- https://www.gamedev.tv/courses  
+- https://www.freecodecamp.org/news/tag/game-development/  
+- https://www.codecademy.com/learn/paths/game-developer  
+
+📝 Practice Challenges & Project Ideas  
+- https://itch.io/jams (Game jams to practice & publish)  
+- https://opengameart.org (Free assets for practice)  
+- https://kenney.nl/assets (Game dev assets)  
+- https://exercism.org/tracks/csharp (C# practice for Unity)  
+- https://devpost.com/hackathons (Join hackathons)  
+
+🌐 Important Websites & Knowledge Hubs  
+- https://unity.com  
+- https://unrealengine.com  
+- https://godotengine.org  
+- https://www.gamedev.net  
+- https://www.gamasutra.com (Game dev articles & insights)  
+
+💼 Interview Prep & Career  
+- https://www.interviewbit.com/game-developer-interview-questions/  
+- https://www.geeksforgeeks.org/game-developer-interview-questions/  
+- https://www.careerride.com/game-developer-interview-questions.aspx  
+- https://www.upgrad.com/blog/game-developer-interview-questions/  
