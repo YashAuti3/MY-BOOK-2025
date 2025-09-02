@@ -1,0 +1,27 @@
+Cybersecurity & Ethical Hacking
+📌 Free Courses
+https://www.coursera.org/specializations/ibm-cybersecurity-analyst
+https://www.edx.org/learn/cybersecurity
+https://www.udemy.com/course/ethical-hacking-for-beginners/
+https://www.freecodecamp.org/news/ethical-hacking-for-beginners/
+📌 Project Ideas
+Password strength checker
+Secure login/authentication system
+Build your own vulnerability scanner
+Network packet sniffer
+Web application penetration testing report
+📌 Practice Challenges
+https://overthewire.org/wargames/
+https://www.hackthebox.com/
+https://tryhackme.com/
+https://ctftime.org/
+📌 Interview Prep Guide
+https://roadmap.sh/cyber-security
+https://www.geeksforgeeks.org/cyber-security-interview-questions/
+https://resources.infosecinstitute.com/topic/top-50-cybersecurity-interview-questions-answers/
+📌 Important Websites
+https://www.kali.org/ (Kali Linux tools)
+https://owasp.org/ (Open Web Application Security Project)
+https://nmap.org/ (Network scanning)
+https://www.wireshark.org/ (Network analysis)
+https://www.exploit-db.com/ (Exploits database)
