@@ -1,0 +1,32 @@
+# Data Science Roadmap & Resources
+
+## 📘 Free Courses / Learning
+- Harvard CS109 Data Science: https://cs109.github.io/2015/
+- MIT Introduction to Computational Thinking: https://computationalthinking.mit.edu/
+- Kaggle Learn: https://www.kaggle.com/learn
+- Data Science Specialization (Coursera Free Audit): https://www.coursera.org/specializations/jhu-data-science
+- Fast.ai Practical Deep Learning: https://course.fast.ai/
+
+## 💡 Project Ideas
+- Predict movie ratings using IMDB dataset  
+- Build a stock price predictor (time series)  
+- Sentiment analysis on Twitter data  
+- Recommendation system for e-commerce  
+- Customer churn prediction (telecom dataset)  
+
+## 📝 Practice Challenges
+- Kaggle Competitions: https://www.kaggle.com/competitions  
+- DrivenData Challenges: https://www.drivendata.org/competitions/  
+- Analytics Vidhya Hackathons: https://datahack.analyticsvidhya.com/contest/all/  
+- HackerRank Data Science: https://www.hackerrank.com/domains/tutorials/10-days-of-statistics  
+
+## 🎯 Interview Prep
+- StrataScratch Interview Questions: https://platform.stratascratch.com/coding  
+- Interview Query: https://www.interviewquery.com/  
+- Top 100 Data Science Interview Qs: https://www.analyticsvidhya.com/blog/2017/01/40-questions-on-data-science/  
+
+## 🌐 Important Websites / Resources
+- Kaggle Datasets: https://www.kaggle.com/datasets  
+- UCI Machine Learning Repository: https://archive.ics.uci.edu/ml/index.php  
+- Towards Data Science Blog: https://towardsdatascience.com/  
+- Awesome Data Science GitHub: https://github.com/academic/awesome-datascience  
