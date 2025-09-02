@@ -1,0 +1,54 @@
+# UI/UX Development Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/ux-design  
+🔗 https://roadmap.sh/frontend (UI design section included)  
+
+---
+
+## Free Courses  
+- [freeCodeCamp – UI/UX Design Course (YouTube)](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)  
+- [Google UX Design Certificate (Free Audit on Coursera)](https://www.coursera.org/professional-certificates/google-ux-design)  
+- [Interaction Design Foundation – Free Lessons](https://www.interaction-design.org/)  
+- [Figma Crash Course – Design & Prototyping (YouTube)](https://www.youtube.com/watch?v=HZuk6Wkx_Eg)  
+- [Adobe XD Free Tutorials](https://helpx.adobe.com/xd/tutorials.html)  
+
+---
+
+## Project Ideas  
+- Redesign a **popular app UI** (Spotify, Instagram, YouTube)  
+- Create a **Portfolio Website UI** in Figma/Adobe XD  
+- Design a **Mobile App Prototype** (e.g., Food Delivery)  
+- Build a **Design System / Style Guide** for a website  
+- Work on a **Case Study Project** (problem-solving design approach)  
+
+---
+
+## Practice Challenges  
+- [Daily UI Challenge](https://www.dailyui.co/)  
+- [Frontend Mentor (UI Challenges)](https://www.frontendmentor.io/challenges)  
+- [Sharpen Design Practice](https://sharpen.design/)  
+- [UX Challenge](https://uxtools.co/challenges/)  
+- [Designercize – Wireframe Practice](https://designercize.com/)  
+
+---
+
+## Interview Prep Guide  
+- [UI/UX Interview Questions – CareerFoundry](https://careerfoundry.com/en/blog/ux-design/ux-interview-questions/)  
+- [Top UX Interview Questions – Springboard](https://www.springboard.com/blog/design/ux-ui-interview-questions/)  
+- [UX Portfolio & Case Study Prep](https://uxdesign.cc/how-to-create-a-ux-portfolio-that-gets-you-hired-5a6a8a3df9f3)  
+- [UX Interview Questions (InterviewBit)](https://www.interviewbit.com/ui-ux-designer-interview-questions/)  
+- [Interaction Design Foundation – UX Careers](https://www.interaction-design.org/courses/become-a-ux-designer-from-scratch)  
+
+---
+
+## Important Websites for UI/UX Designers  
+- [Figma](https://www.figma.com/) – Collaborative design tool  
+- [Dribbble](https://dribbble.com/) – UI/UX inspiration  
+- [Behance](https://www.behance.net/) – Creative design showcase  
+- [Awwwards](https://www.awwwards.com/) – Award-winning UI design gallery  
+- [Mobbin](https://mobbin.com/) – Mobile app design patterns  
+- [UI Patterns](https://ui-patterns.com/) – UX design patterns collection  
+- [Canva Design School](https://www.canva.com/learn/) – Free design resources  
+
+---
