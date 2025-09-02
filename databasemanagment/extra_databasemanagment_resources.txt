@@ -1,0 +1,54 @@
+# Database Management Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/postgresql  
+🔗 https://roadmap.sh/mysql  
+
+---
+
+## Free Courses  
+- [Databases for Developers – Oracle Dev Gym](https://devgym.oracle.com/pls/apex/dg/office_hours/office_hours/1422)  
+- [Intro to Relational Databases (Udacity Free)](https://www.udacity.com/course/intro-to-relational-databases--ud197)  
+- [MongoDB University – Free NoSQL Courses](https://learn.mongodb.com/)  
+- [SQL for Data Science (Coursera Free Audit)](https://www.coursera.org/learn/sql-for-data-science)  
+- [Mode Analytics – SQL Tutorial](https://mode.com/sql-tutorial/)  
+
+---
+
+## Project Ideas  
+- Build a **Library Management System** using MySQL/PostgreSQL  
+- Create a **Blog App Database** with relational schema  
+- Design an **E-commerce Database** (products, users, orders, payments)  
+- Implement a **NoSQL database project** with MongoDB (e.g., social media posts)  
+- Create a **Real-time Analytics Dashboard** using Redis  
+
+---
+
+## Practice Challenges  
+- [SQLBolt – Interactive SQL Lessons](https://sqlbolt.com/)  
+- [HackerRank – SQL Challenges](https://www.hackerrank.com/domains/sql)  
+- [LeetCode – Database Problems](https://leetcode.com/problemset/all/?topicSlugs=database)  
+- [Mode Analytics – SQL Exercises](https://mode.com/sql-tutorial/sql-exercises/)  
+- [StrataScratch – SQL Interview Problems](https://www.stratascratch.com/)  
+
+---
+
+## Interview Prep Guide  
+- [SQL Interview Questions – InterviewBit](https://www.interviewbit.com/sql-interview-questions/)  
+- [Top Database Interview Questions – GeeksforGeeks](https://www.geeksforgeeks.org/sql-interview-questions-and-answers/)  
+- [System Design Primer – Database Section](https://github.com/donnemartin/system-design-primer#system-design-topics-start-here)  
+- [MongoDB Interview Questions](https://www.interviewbit.com/mongodb-interview-questions/)  
+- [Database Design Basics – Microsoft Docs](https://learn.microsoft.com/en-us/office/troubleshoot/access/database-design-basics)  
+
+---
+
+## Important Websites for Database Management  
+- [roadmap.sh – PostgreSQL Roadmap](https://roadmap.sh/postgresql)  
+- [DB-Engines Ranking – Popular Databases](https://db-engines.com/en/ranking)  
+- [SQLZoo – Learn SQL by Doing](https://sqlzoo.net/)  
+- [MongoDB Official Docs](https://www.mongodb.com/docs/)  
+- [PostgreSQL Official Docs](https://www.postgresql.org/docs/)  
+- [MySQL Official Docs](https://dev.mysql.com/doc/)  
+- [Redis Official Docs](https://redis.io/docs/)  
+
+---
