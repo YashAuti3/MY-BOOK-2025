@@ -1,0 +1,53 @@
+# Cloud Computing Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/cloud  
+
+---
+
+## Free Courses  
+- [AWS Cloud Practitioner Essentials (Free)](https://www.aws.training/Details/Curriculum?id=20685)  
+- [Google Cloud Training – Free Tier Courses](https://cloud.google.com/training)  
+- [Microsoft Learn – Azure Fundamentals](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)  
+- [IBM Cloud Computing Basics](https://cognitiveclass.ai/courses/introduction-to-cloud)  
+- [freeCodeCamp – Cloud Computing Crash Course](https://www.youtube.com/watch?v=2LaAJq1lB1Q)  
+
+---
+
+## Project Ideas  
+- Deploy a **Personal Portfolio Website** on AWS S3/CloudFront  
+- Create a **Serverless Function** with AWS Lambda or Azure Functions  
+- Build a **Cloud-based To-Do App** using Firebase or Supabase  
+- Setup a **CI/CD pipeline** on GitHub Actions + AWS/Azure  
+- Create a **Scalable Chat App** hosted on GCP  
+
+---
+
+## Practice Challenges  
+- [AWS Skill Builder – Labs & Quests](https://skillbuilder.aws/)  
+- [Qwiklabs – Hands-on Cloud Labs (Google Cloud)](https://www.qwiklabs.com/)  
+- [Microsoft Learn Sandbox – Free Azure Labs](https://learn.microsoft.com/en-us/training/sandboxes/)  
+- [Cloud Resume Challenge](https://cloudresumechallenge.dev/)  
+- [Linux Academy Free Cloud Labs (A Cloud Guru)](https://acloudguru.com/)  
+
+---
+
+## Interview Prep Guide  
+- [Top Cloud Computing Interview Questions – GeeksforGeeks](https://www.geeksforgeeks.org/cloud-computing-interview-questions/)  
+- [AWS Interview Questions – InterviewBit](https://www.interviewbit.com/aws-interview-questions/)  
+- [Azure Interview Questions – Edureka](https://www.edureka.co/blog/interview-questions/microsoft-azure-interview-questions/)  
+- [Google Cloud Interview Questions](https://intellipaat.com/blog/interview-question/google-cloud-interview-questions/)  
+- [System Design Primer – Cloud Section (GitHub)](https://github.com/donnemartin/system-design-primer)  
+
+---
+
+## Important Websites for Cloud Developers  
+- [AWS Official Docs](https://docs.aws.amazon.com/)  
+- [Google Cloud Docs](https://cloud.google.com/docs)  
+- [Microsoft Azure Docs](https://learn.microsoft.com/en-us/azure/)  
+- [Cloud Native Computing Foundation](https://www.cncf.io/)  
+- [Awesome Cloud (GitHub)](https://github.com/cloudcommunity/awesome-cloud)  
+- [Terraform by HashiCorp – IaC](https://www.terraform.io/)  
+- [Cloudflare Learning Hub](https://www.cloudflare.com/learning/)  
+
+---
