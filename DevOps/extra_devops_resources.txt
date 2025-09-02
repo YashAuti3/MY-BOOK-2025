@@ -1,0 +1,50 @@
+# DevOps Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/devops  
+
+---
+
+## Free Courses  
+- [freeCodeCamp – DevOps with Docker, Jenkins & Kubernetes (YouTube)](https://www.youtube.com/watch?v=j5Zsa_eOXeY)  
+- [Kubernetes Basics – Official Docs](https://kubernetes.io/docs/tutorials/kubernetes-basics/)  
+- [Docker for Beginners – Play with Docker](https://training.play-with-docker.com/)  
+- [Linux Foundation – Introduction to DevOps](https://training.linuxfoundation.org/training/introduction-to-devops/)  
+- [AWS Training – Cloud Practitioner Essentials (Free)](https://www.aws.training/Details/Curriculum?id=20685)  
+
+---
+
+## Project Ideas  
+- Create a **CI/CD pipeline** using Jenkins + GitHub  
+- Deploy a **Dockerized app** on AWS or DigitalOcean  
+- Build a **Kubernetes cluster** with Minikube  
+- Automate server setup using **Ansible**  
+- Infrastructure as Code project with **Terraform**  
+
+---
+
+## Practice Challenges  
+- [KodeKloud Engineer – Hands-on DevOps Labs](https://kodekloud-engineer.com/)  
+- [Katacoda – DevOps Scenarios](https://www.katacoda.com/)  
+- [DevOps Exercises (GitHub)](https://github.com/bregman-arie/devops-exercises)  
+- [Linux Survival – Practice Linux Commands](https://linuxsurvival.com/)  
+
+---
+
+## Interview Prep Guide  
+- [DevOps Interview Questions (Edureka)](https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/)  
+- [DevOps Interview Handbook](https://devinterview.io/devops/)  
+- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)  
+- [Cloud & DevOps Interview Q/A (GeeksforGeeks)](https://www.geeksforgeeks.org/devops-interview-questions/)  
+
+---
+
+## Important Websites for DevOps Engineers  
+- [roadmap.sh – DevOps Engineer Roadmap](https://roadmap.sh/devops)  
+- [Awesome DevOps (GitHub)](https://github.com/ligurio/awesome-devops)  
+- [HashiCorp Learn – Terraform, Vault, Consul, Nomad](https://learn.hashicorp.com/)  
+- [Docker Official Docs](https://docs.docker.com/)  
+- [Kubernetes Official Docs](https://kubernetes.io/docs/)  
+- [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/)  
+
+---
