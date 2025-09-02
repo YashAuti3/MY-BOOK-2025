@@ -1,0 +1,50 @@
+# Backend Development Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/backend  
+
+---
+
+## Free Courses  
+- [CS50’s Introduction to Computer Science (Harvard)](https://cs50.harvard.edu/x/)  
+- [freeCodeCamp – Relational Databases](https://www.freecodecamp.org/learn/relational-database/)  
+- [Node.js Crash Course – Traversy Media (YouTube)](https://www.youtube.com/watch?v=fBNz5xF-Kx4)  
+- [Django for Beginners – MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)  
+- [The Odin Project – Node.js Backend Path](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)  
+
+---
+
+## Project Ideas  
+- [Build REST API with Node.js](https://www.freecodecamp.org/news/build-a-restful-api-using-node-express-and-mongodb/)  
+- [Flask Blog App](https://flask.palletsprojects.com/en/stable/tutorial/)  
+- [Django Polls App](https://docs.djangoproject.com/en/stable/intro/tutorial01/)  
+- [GraphQL API Project](https://graphql.org/learn/)  
+- [Spring Boot CRUD App](https://spring.io/guides/gs/crud/)  
+
+---
+
+## Practice Challenges  
+- [Exercism – Python Backend Challenges](https://exercism.org/tracks/python)  
+- [CodingGame – Backend Problem Solving](https://www.codingame.com/)  
+- [Codewars – Backend Languages (Python, Java, Go, etc.)](https://www.codewars.com/)  
+- [LeetCode – System Design + Backend Questions](https://leetcode.com/problemset/all/?topicSlugs=database)  
+
+---
+
+## Interview Prep Guide  
+- [System Design Primer (GitHub)](https://github.com/donnemartin/system-design-primer)  
+- [Backend Interview Handbook](https://backendinterviewhandbook.com/)  
+- [Grokking the System Design Interview (Free Articles)](https://www.designgurus.io/)  
+- [SQL Interview Questions (InterviewBit)](https://www.interviewbit.com/sql-interview-questions/)  
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)  
+
+---
+
+## Important Websites for Backend Developers  
+- [roadmap.sh – Backend Developer Roadmap](https://roadmap.sh/backend)  
+- [GeeksforGeeks Backend Tutorial Hub](https://www.geeksforgeeks.org/backend-development/)  
+- [MDN Web Docs – Server-Side Development](https://developer.mozilla.org/en-US/docs/Learn/Server-side)  
+- [Awesome Backend Resources (GitHub)](https://github.com/itrexgroup/awesome-backend-resources)  
+- [DigitalOcean Tutorials – Backend Dev](https://www.digitalocean.com/community/tutorials)  
+
+---
