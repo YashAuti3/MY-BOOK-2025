@@ -1,0 +1,36 @@
+# Frontend Development Roadmap  
+
+---
+
+## Free Courses  
+
+- [freeCodeCamp – JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)  
+- [CS50’s Web Programming with Python and JavaScript (Harvard)](https://cs50.harvard.edu/web/2020/)  
+- [MDN Web Docs – Learn Web Development](https://developer.mozilla.org/en-US/docs/Learn)  
+- [The Odin Project – Full Frontend Path](https://www.theodinproject.com/paths/full-stack-javascript)  
+
+---
+
+## Project Ideas  
+- [Frontend Mentor – Real-world UI Challenges](https://www.frontendmentor.io/challenges)  
+- [DevProjects – Practical Frontend Projects](https://www.codementor.io/projects/web)  
+- [JavaScript 30 – 30 Projects in 30 Days](https://javascript30.com/)  
+- [Codewell – Figma to Code Challenges](https://www.codewell.cc/)  
+
+---
+
+## Practice Challenges  
+- [Codewars – JavaScript Challenges](https://www.codewars.com/)  
+- [LeetCode – JavaScript Problems](https://leetcode.com/problemset/all/?tag=javascript)  
+- [Exercism – Frontend Track](https://exercism.org/tracks/javascript)  
+- [CSSBattle – Fun CSS Challenges](https://cssbattle.dev/)  
+
+---
+
+## Interview Prep Guide  
+- [Frontend Interview Handbook](https://frontendinterviewhandbook.com/)  
+- [30 Seconds of Interviews](https://30secondsofinterviews.org/)  
+- [JavaScript Interview Questions (Dev.to)](https://dev.to/macmacky/javascript-interview-practice-questions-55ln)  
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/)  
+
+---
