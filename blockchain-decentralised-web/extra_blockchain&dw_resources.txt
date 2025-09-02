@@ -1,0 +1,28 @@
+# Blockchain & Decentralised Web Learning Resources
+
+📚 Free Courses & Learning Platforms  
+- https://www.coursera.org/learn/blockchain-basics  
+- https://www.edx.org/learn/blockchain  
+- https://cryptozombies.io (Learn Solidity by building a game)  
+- https://www.freecodecamp.org/news/tag/blockchain/  
+- https://learnweb3.io  
+
+📝 Practice Challenges & Hands-On Labs  
+- https://remix.ethereum.org (Solidity IDE in browser)  
+- https://chainshot.com (Blockchain coding challenges)  
+- https://etherscan.io (Explore Ethereum blockchain)  
+- https://faucet.paradigm.xyz (Free testnet ETH)  
+- https://moralis.io (Web3 APIs and practice)  
+
+🌐 Important Websites & Knowledge Hubs  
+- https://ethereum.org  
+- https://bitcoin.org  
+- https://soliditylang.org  
+- https://web3.foundation  
+- https://docs.polygon.technology  
+
+💼 Interview Prep & Career  
+- https://www.interviewbit.com/blockchain-interview-questions/  
+- https://www.geeksforgeeks.org/blockchain-interview-questions/  
+- https://www.simplilearn.com/blockchain-interview-questions-and-answers-article  
+- https://www.edureka.co/blog/interview-questions/blockchain-interview-questions  
