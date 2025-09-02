@@ -1,0 +1,21 @@
+# Software Testing & QA Resources
+
+📚 Learning Resources  
+- https://www.guru99.com/software-testing.html  
+- https://www.softwaretestinghelp.com/  
+- https://testautomationu.applitools.com/  
+- https://www.udemy.com/courses/search/?q=software+testing  
+- https://www.coursera.org/courses?query=software+testing  
+
+🛠️ Tools & Frameworks  
+- https://www.selenium.dev (Selenium)  
+- https://junit.org (JUnit)  
+- https://testng.org (TestNG)  
+- https://cucumber.io (Cucumber BDD)  
+- https://jmeter.apache.org (Performance testing)  
+
+💼 Interview & Prep  
+- https://www.geeksforgeeks.org/software-testing-interview-questions/  
+- https://www.interviewbit.com/software-testing-interview-questions/  
+- https://www.edureka.co/blog/interview-questions/software-testing-interview-questions/  
+- https://intellipaat.com/interview-question/software-testing-interview-questions/  
