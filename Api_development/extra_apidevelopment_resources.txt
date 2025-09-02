@@ -1,0 +1,53 @@
+# API Development Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/backend (API section included)  
+🔗 https://roadmap.sh/graphql  
+
+---
+
+## Free Courses  
+- [freeCodeCamp – REST API Tutorial (Node.js & Express)](https://www.youtube.com/watch?v=fbYExfeFsI0)  
+- [freeCodeCamp – GraphQL API Crash Course](https://www.youtube.com/watch?v=ed8SzALpx1Q)  
+- [Postman Student Expert Program (API Testing & Docs)](https://www.postman.com/company/student-program/)  
+- [Building RESTful APIs with Flask – Corey Schafer (YouTube)](https://www.youtube.com/watch?v=PTZiDnuC86g)  
+- [GraphQL Official Tutorial](https://graphql.org/learn/)  
+
+---
+
+## Project Ideas  
+- Create a **Book Store API** (CRUD operations with Express or Django)  
+- Build a **Weather API Wrapper** using OpenWeather API  
+- Develop a **Movie Database API** with MongoDB + Node.js  
+- Design a **Blog API** with authentication & JWT tokens  
+- Create a **GraphQL API** for an E-commerce store  
+
+---
+
+## Practice Challenges  
+- [Postman Public Workspaces (Practice APIs)](https://www.postman.com/explore)  
+- [RapidAPI Hub – Free Public APIs to Practice](https://rapidapi.com/hub)  
+- [API Challenges – HTTP Practice](https://apichallenges.herokuapp.com/)  
+- [HackerRank – REST API Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)  
+- [ReqRes – Fake API for Practice](https://reqres.in/)  
+
+---
+
+## Interview Prep Guide  
+- [REST API Interview Questions – GeeksforGeeks](https://www.geeksforgeeks.org/rest-api-interview-questions/)  
+- [Top GraphQL Interview Questions](https://www.interviewbit.com/graphql-interview-questions/)  
+- [Backend Interview Handbook (API Section)](https://backendinterviewhandbook.com/)  
+- [System Design Primer – API Design Basics](https://github.com/donnemartin/system-design-primer#api-design)  
+- [Postman Blog – API Testing Interview Questions](https://blog.postman.com/api-testing-interview-questions/)  
+
+---
+
+## Important Websites for API Developers  
+- [Postman – API Development & Testing](https://www.postman.com/)  
+- [Swagger (OpenAPI) Docs](https://swagger.io/docs/)  
+- [RapidAPI Hub – Explore & Use APIs](https://rapidapi.com/hub)  
+- [ProgrammableWeb – API Directory](https://www.programmableweb.com/)  
+- [GraphQL Official Docs](https://graphql.org/)  
+- [RESTful API Tutorial](https://restfulapi.net/)  
+
+---
