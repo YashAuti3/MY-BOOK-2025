@@ -1,0 +1,56 @@
+# AI & Machine Learning Roadmap  
+
+## Beginner to Pro Roadmap  
+🔗 https://roadmap.sh/ai  
+🔗 https://roadmap.sh/machine-learning  
+
+---
+
+## Free Courses  
+- [Andrew Ng – Machine Learning (Coursera Free Audit)](https://www.coursera.org/learn/machine-learning)  
+- [Deep Learning Specialization (Coursera Free Audit)](https://www.coursera.org/specializations/deep-learning)  
+- [fast.ai – Practical Deep Learning for Coders](https://course.fast.ai/)  
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)  
+- [MIT OpenCourseWare – Introduction to Deep Learning](http://introtodeeplearning.com/)  
+- [freeCodeCamp – Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)  
+
+---
+
+## Project Ideas  
+- Build a **Spam Classifier** using Naive Bayes  
+- Create a **Movie Recommendation System** (Collaborative Filtering)  
+- Develop a **Chatbot** using NLP + RNN/Transformers  
+- Predict **House Prices** with Regression Models  
+- Train an **Image Classifier** with CNNs (TensorFlow/PyTorch)  
+- Create a **Stock Price Prediction Model** with LSTMs  
+
+---
+
+## Practice Challenges  
+- [Kaggle – Competitions & Datasets](https://www.kaggle.com/)  
+- [DrivenData – Social Impact ML Challenges](https://www.drivendata.org/)  
+- [AIcrowd – Machine Learning Competitions](https://www.aicrowd.com/)  
+- [LeetCode – ML + DS Problems](https://leetcode.com/)  
+- [HackerRank – AI Challenges](https://www.hackerrank.com/domains/ai)  
+
+---
+
+## Interview Prep Guide  
+- [Top Machine Learning Interview Questions – GeeksforGeeks](https://www.geeksforgeeks.org/machine-learning-interview-questions/)  
+- [AI & ML Interview Questions – InterviewBit](https://www.interviewbit.com/machine-learning-interview-questions/)  
+- [Deep Learning Interview Questions – Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/05/deep-learning-interview-questions-and-answers/)  
+- [System Design for ML Systems (GitHub)](https://github.com/chiphuyen/machine-learning-systems-design)  
+- [Towards Data Science – ML Interview Prep Guides](https://towardsdatascience.com/tagged/interview-prep)  
+
+---
+
+## Important Websites for AI & ML Developers  
+- [TensorFlow Official Docs](https://www.tensorflow.org/)  
+- [PyTorch Official Docs](https://pytorch.org/docs/stable/index.html)  
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)  
+- [Kaggle](https://www.kaggle.com/) – datasets & notebooks  
+- [Papers with Code](https://paperswithcode.com/) – research + implementation  
+- [Hugging Face](https://huggingface.co/) – NLP & transformers hub  
+- [Awesome Machine Learning (GitHub)](https://github.com/josephmisiti/awesome-machine-learning)  
+
+---
