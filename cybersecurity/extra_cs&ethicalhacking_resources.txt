@@ -25,3 +25,6 @@ https://owasp.org/ (Open Web Application Security Project)
 https://nmap.org/ (Network scanning)
 https://www.wireshark.org/ (Network analysis)
 https://www.exploit-db.com/ (Exploits database)
+https://www.meity.gov.in/content/information-technology-act-2000
+https://www.coe.int/en/web/cybercrime
+https://gdpr.eu/
