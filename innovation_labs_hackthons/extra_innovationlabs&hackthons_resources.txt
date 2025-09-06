@@ -5,7 +5,11 @@
 - https://innovatelabs.org (Global innovation resources)  
 - https://www.nasa.gov/solve (NASA Solve challenges)  
 - https://www.udemy.com/courses/search/?q=innovation (Udemy courses on innovation)  
-- https://www.coursera.org/courses?query=innovation (Coursera innovation courses)  
+- https://www.coursera.org/courses?query=innovation (Coursera innovation courses) 
+https://jugo.io/resources/hackathon-2023/
+https://www.inspiritai.com/blogs/ai-blog/what-is-a-hackathon
+https://hiddenlayer.com/innovation-hub/behind-the-build-hiddenlayers-hackathon/
+https://www.brightidea.com/guide/hackathon/what-is-a-hackathon/benefits/
 
 📝 Hackathons & Practice Platforms  
 - https://devpost.com (Most popular hackathon platform)  
